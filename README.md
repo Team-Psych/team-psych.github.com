@@ -1,4 +1,4 @@
-## Welcome to the Team Psych website!
+# Team Psych
 
 Hey, welcome to Team Psych! 
 
